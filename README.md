@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou a trabalhar com Back-End C#
-- 🌱 Estudando React Native & JavaScript
+- 🌱 Estudando Engenharia Informática
 - ⚡ Skills: Junior Software Developer / Full Stack Developer / C# / Java / Outsystems / ASP.NET CORE
 
 <div>
