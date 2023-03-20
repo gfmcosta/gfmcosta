@@ -1,9 +1,9 @@
-### Heyy!! Eu sou o Gonçalo Costa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
+### Heyy!! I'm Gonçalo Costa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
 
 
-- 🔭 Atualmente estou a trabalhar com Back-End C#
-- 🌱 Estudando Engenharia Informática
-- ⚡ Skills: Junior Software Developer / Full Stack Developer / C# / Java / Outsystems / ASP.NET CORE
+- 🔭 At the moment, I'm working with JavaScript
+- 🌱 Studying Computer Science
+- ⚡ Skills: Junior Software Developer / Full Stack Developer / Java / .NET CORE / Python
 
 <div>
   <a href="https://github.com/gfmcosta">
@@ -34,13 +34,3 @@
   ![Snake animation](https://github.com/gfmcosta/gfmcosta/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
