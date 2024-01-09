@@ -1,9 +1,9 @@
 ### Heyy!! I'm Gonçalo Costa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
 
 
-- 🔭 At the moment, I'm working with JavaScript
+- 🔭 At the moment, I'm working with Kotlin
 - 🌱 Studying Computer Science
-- ⚡ Skills: Junior Software Developer / Full Stack Developer / Java / .NET CORE / Python
+- ⚡ Skills: Junior Software Developer / Full Stack Developer / Java / .NET CORE / Python / Kotlin / JavaScript / SQL
 
 <div>
   <a href="https://github.com/gfmcosta">
@@ -19,7 +19,8 @@
   <img align="center" alt="atsoc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="atsoc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="atsoc-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  
+  <img align="center" alt="atsoc-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg">
+
 </div>
   
 ##
