@@ -1,7 +1,7 @@
 ### Heyy!! I'm Gonçalo Costa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
 
 
-- 🔭 At the moment, I'm working with Kotlin
+- 🔭 At the moment, I'm working with Python
 - 🌱 Studying Computer Science
 - ⚡ Skills: Junior Software Developer / Full Stack Developer / Java / .NET CORE / Python / Kotlin / JavaScript / SQL
 
